@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - exclude
+  - Button
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: Back
     uniqueID: 3770870741
+    locked: 0
+  - name: exclude
+    uniqueID: 241844481
     locked: 0

@@ -1107,7 +1107,7 @@ MonoBehaviour:
   Cam: {fileID: 519420031}
   whatisGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   feetPos: {fileID: 1931457767}
 --- !u!1 &1423021761
 GameObject:
